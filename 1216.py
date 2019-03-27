@@ -91,7 +91,7 @@ for _ in range(1, 11):
 
 ## Test
 
-f = open("C:/Users/Nakyilkim/Downloads/inputs.txt",'r')
+f = open("",'r')
 lines = f.readlines()
 
 T = lines[0]

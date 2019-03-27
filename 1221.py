@@ -26,7 +26,7 @@ for _ in range(1, TT + 1):
 
 ## Test
 
-f = open("C:/Users/Nakyilkim/Downloads/GNS_test_input.txt",'r')
+f = open("",'r')
 lines = f.readlines()
 
 T = lines[2]
